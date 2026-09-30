@@ -1,3 +1,4 @@
 "2026학년도 2학기 Open-Source SW Programming Project 02"
 20231064
 이건우
+"Project 02 completed"
